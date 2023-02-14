@@ -1,5 +1,5 @@
 ### Привет 👋
-Ты на странице Python backend разработчика, вот основные ссылки:
+Ты на странице Python разработчика, вот основные ссылки:
 
 ##### → [Личный проект KoltAccount](https://github.com/ottomayerpy/KoltAccount)
 ##### → [Студенческие работы на Python](https://github.com/ottomayerpy/ottomayerpy/blob/main/student_works_python.md)
